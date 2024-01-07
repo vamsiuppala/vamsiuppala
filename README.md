@@ -8,6 +8,8 @@ I am a Data Scientist at ServiceNow, working on building machine learning models
 
 I write at [A Pinch of Data](https://vamsiuppala.github.io/about.html).
 
+I document everything I learn and reuse [here](https://gist.github.com/vamsiuppala).
+
 I used to work at DoorDash, Allbirds, Dun & Bradstreet and Axtria. My interests in Data Science include building simple models, product analytics, data science metric tracking tooling, MLOps and production, simulations and explainable AI.
 
 I have ~9 years of experience as a Full Stack Data Scientist, in Experimentation (A/B Testing, Causal Inference), Machine Learning (user retention, forecasts) and have some MLOps knowledge (Azure AI).
