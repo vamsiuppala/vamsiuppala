@@ -6,7 +6,7 @@
 
 I am a Data Scientist at ServiceNow, working on building machine learning models to predict some key revenue subscription KPIs. 
 
-I write at [A Pinch of Data](https://vamsiuppala.github.io/about.html)
+I write at [A Pinch of Data](https://vamsiuppala.github.io/about.html).
 
 I used to work at DoorDash, Allbirds, Dun & Bradstreet and Axtria. My interests in Data Science include building simple models, product analytics, data science metric tracking tooling, MLOps and production, simulations and explainable AI.
 
