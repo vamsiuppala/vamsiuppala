@@ -6,7 +6,7 @@
 
 I am a Data Scientist at ServiceNow, building explainable models forecasting some key revenue subscription KPIs. 
 
-1. Writing at [A Pinch of Data](https://vamsiuppala.github.io/).
+1. Writing at [A Pinch of Data](https://vamsiuppala.github.io/)
 2. Adding some useful & small code snippets in [Github Gists](https://gist.github.com/vamsiuppala)
 3. Jotting down notes in [docs](https://docs.google.com/document/d/e/2PACX-1vTHp6LLozrEliTIfn93WGyupaa2OHOo1knsAxw58ibLfDk88UKNqJdwASpt5okXK2g9nAqMCNts3BNi/pub).
 
