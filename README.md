@@ -4,7 +4,7 @@
 **vamsiuppala/vamsiuppala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am a Data Scientist at ServiceNow, building explainable models forecasting some key revenue subscription KPIs. 
+I am a Data Scientist at ServiceNow, building explainable forecasting models for some key revenue subscription KPIs.
 
 1. Writing at [A Pinch of Data](https://vamsiuppala.github.io/)
 2. Adding some small & useful code snippets in [Github Gists](https://gist.github.com/vamsiuppala)
